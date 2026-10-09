@@ -1,5 +1,13 @@
 # 🛡️ CyberShield AI — Intelligent Cybersecurity & Digital Safety Platform
 
+[![Frontend Deployed](https://img.shields.io/badge/Frontend-Vercel-success?style=flat-square&logo=vercel)](https://cyber-shield-ai-weld-xi.vercel.app)
+[![Backend Deployed](https://img.shields.io/badge/Backend-Render-blue?style=flat-square&logo=render)](https://cybershield-api.onrender.com)
+
+🌐 **Live Website Application:** [https://cyber-shield-ai-weld-xi.vercel.app](https://cyber-shield-ai-weld-xi.vercel.app)  
+📡 **Live Backend API Server:** [https://cybershield-api.onrender.com](https://cybershield-api.onrender.com)
+
+---
+
 **CyberShield AI** is an intelligent, user-centric cybersecurity platform designed to empower non-technical users—including students, senior citizens, online shoppers, and digital payment users—to identify phishing links, fraudulent websites, scam SMS/emails, and social engineering attacks.
 
 The application explains **WHY** something is suspicious in simple language and gives actionable guidance on **WHAT TO DO NEXT**.
