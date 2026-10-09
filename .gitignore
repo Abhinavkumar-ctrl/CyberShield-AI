@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build & Dist
+frontend/dist/
+*.egg-info/
+
+# Databases & Environment
+cybershield.db
+.env
+backend/.env
+
+# Python Cache & Testing
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# References & System
+references/
+.DS_Store
+Thumbs.db
